@@ -1,0 +1,146 @@
+name: websait
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  miner1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner3:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner4:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner5:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner6:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner7:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner8:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner9:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner10:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner11:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner12:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner13:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner14:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner15:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner16:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner17:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner18:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner19:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
+
+  miner20:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSHX
+        run: |
+          curl -sSf https://sshx.io/get | sh -s run
